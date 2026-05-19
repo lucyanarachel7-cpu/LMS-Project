@@ -9,3 +9,12 @@ Berikut adalah progres pengerjaan **LMS-Project** (Moodle) yang telah diselesaik
 - Moodle Quiz
 - Safe Exam Browser (SEB)
 - Interactive learning media
+## Preview
+### Course Moodle
+![Course](course.png)
+
+### Quiz SEB
+![Quiz](quiz.png)
+
+### Video Learning
+![Video](video.png)
